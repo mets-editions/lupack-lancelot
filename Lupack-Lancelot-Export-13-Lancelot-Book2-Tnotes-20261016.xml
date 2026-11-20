@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Lupack-Lancelot-Export-13-Lancelot-Book2-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes to Lancelot of the Laik, Book 2</title><author>Lupack, Alan</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conrath, Ryan</persName><resp>Entered corrections for digital edition</resp><resp>Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2026-09" to="2026-11">Audited documents prior to print/export</resp><resp from="2026-10" to="2026-10">Collected metadata</resp><resp from="2026-08" to="2026-08">Copyedited and proofread</resp><resp from="2026-11" to="2026-11">Encoded TEI</resp><resp from="2026-08" to="2026-09">Ensured adherence to METS Style Guide</resp><resp from="2026-08" to="2026-09">Entered corrections for digital edition</resp><resp>Entered corrections for print edition</resp><resp from="2026-08" to="2026-09">Formatted for XML export</resp><resp>Updated TEI encoding</resp><resp from="2026-11" to="2026-11">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Johnson-Olin, Martha M.</persName><resp>Entered corrections for digital edition</resp><resp>Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2023-11" to="2023-11">Collected metadata</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp>Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp>Reviewed edition for consistency and audience</resp><resp>Reviewed edition for content and scholarship</resp><resp>Wrote reader report</resp></respStmt><respStmt><persName>McShane, Kara L.</persName><resp>Entered corrections for digital edition</resp><resp>Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp>Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp>Reviewed edition for consistency and audience</resp><resp>Reviewed edition for content and scholarship</resp><resp>Wrote reader report</resp></respStmt><respStmt><persName>Roth, Aaron</persName><resp>Entered corrections for digital edition</resp><resp>Uploaded / Published digital edition</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2026.</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Rita Copeland</persName><orgName>University of Minnesota</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa J. Kiser</persName><orgName>Ohio State University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Thomas Seiler</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>R. A. Shoaf</persName><orgName>University of Florida</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Unknown</author><author>Scott, Sir Walter</author><editor>Lupack, Alan</editor><title>Lancelot of the Laik and Sir Tristrem</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>1994</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/lupack-lancelot/blob/main/lupack-lancelot-export-corrections-log.xlsx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc><revisionDesc><change>First edition published in 1994</change><change>Encoded in HTML</change><change>Entered editorial corrections in 2025 and 2026</change></revisionDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Lupack-Lancelot-Export-13-Lancelot-Book2-Tnotes"/><div type="text">
+ <note type="tnote" n="1">1343<space rend="indent1"/><p>Skeat suggests that the word “diverss” is needed before “peplis” to complete the meter of the line and cites line 731 as an example of a similar construction.</p></note>
+ <note type="tnote" n="2">1404<space rend="indent1"/><p>Gray emends “amendit” to “amend it.”</p></note>
+ <note type="tnote" n="3">1474<space rend="indent1"/><p>I follow Skeat and Gray in emending manuscript “assit” to “assist.”</p></note>
+ <note type="tnote" n="4">1546<space rend="indent1"/><p>Gray notes that she is emending <hi rend="italic">Kinghe</hi> to “king he”; Skeat emends to “king” and explains the spelling as resulting from confusion with the word “knight” even though, as he believes, another spelling with <hi rend="italic">h</hi> (“Kinghis”) occurs in line 2527. In both cases, it seems that the scribe has merely run two words together and no emendation or further explanation is required to make sense of the lines.</p></note>
+ <note type="tnote" n="5">1552<space rend="indent1"/><p>On <hi rend="italic">them thei both</hi>, where the “them” seems redundant and Skeat suggests the possibility of emending to “then,” see the note to line 1215.</p></note>
+ <note type="tnote" n="6">1629<space rend="indent1"/><p>The manuscript reads “w justly.” Skeat is surely correct in emending to “wnjustly.”</p></note>
+ <note type="tnote" n="7">1666<space rend="indent1"/><p>The rhyme and an empty space in the manuscript suggest that a line has been omitted here.</p></note>
+ <note type="tnote" n="8">1668<space rend="indent1"/><p>I follow Skeat and Gray in emending “behold” to “be hold.”</p></note>
+ <note type="tnote" n="9">1737<space rend="indent1"/><p>In the manuscript there is a line over the <hi rend="italic">a</hi> in “stable,” but it appears to have not significance.</p></note>
+ <note type="tnote" n="10">1788<space rend="indent1"/><p>The manuscript reads “to lede”; the “to” seems in this context to make sense only as a prefix used as an intensive with “lede” (lead). Thus my reading of “to-lede.”</p></note>
+ <note type="tnote" n="11">1983<space rend="indent1"/><p>The manuscript reads “that,” which is the reading found in all earlier editions. I have emended to <hi rend="italic">thai</hi> because the sense seems to demand the change. The word “that” in the manuscript could be the result of scribal confusion caused by “that” in the line above.</p></note>
+ <note type="tnote" n="12">2036<space rend="indent1"/><p>Skeat suggests that the correct reading might be “see” instead of “bee,” though he does not emend his text. “Bee” makes sense if we read it with an understood main verb from several lines above: “On account of which [being in the water of sin] it is impossible to be [standing in pure religion]. Standing in the cleanliness of religion rather than in the murky water of sin would have allowed them to see clearly.”</p></note>
+ <note type="tnote" n="13">2312<space rend="indent1"/><p>Skeat and Gray emend <hi rend="italic">conne</hi> to “come.” This is the easier reading to explain: the lady says she does not come to court for no reason (i.e., she comes for a reason, which she gives in the next line). The manuscript reading is, however, possible. She says “I know [that I come] not for nothing,” by which she might mean that she knows that her quest will meet with success at Arthur’s court.</p></note>
+ <note type="tnote" n="14">2374<space rend="indent1"/><p>Skeat and Gray both suggest that the first “say” in the line might be a scribal error and that the proper reading might be “bee.”</p></note>
+ <note type="tnote" n="15">2395<space rend="indent1"/><p>A space is left at the beginning of this line for an illuminated letter. Skeat supplies <hi rend="italic">I</hi>, Gray <hi rend="italic">A</hi>, which seems to make better sense.</p></note>
+ </div></body></text></TEI>
